@@ -1,5 +1,4 @@
-import React from 'react'
-import Search2 from '../assets/Pic/Search.webp';
+import Search2 from '../assets/Pic/search.webp';
 
 
 const Search = ({searchTerm, setSearchTerm}) => {
