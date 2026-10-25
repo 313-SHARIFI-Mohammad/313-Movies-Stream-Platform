@@ -1,9 +1,9 @@
 import { useState, useEffect } from 'react'
 import Background from './assets/Pic/Background.png'
-import Search from './Components/Search'
-import Hero from './assets/Pic/Epic Movie Poster Trilogy.png';
-import Spinner from './Components/Spinner';
-import MovieCard from './Components/MovieCard';
+import Search from './components/Search'
+import Hero from './assets/Pic/EpicMoviePosterTrilogy.png';
+import Spinner from './components/Spinner';
+import MovieCard from './components/MovieCard'
 import { useDebounce } from 'react-use';
 import LOGO from './assets/Pic/LOGO.png'
 
