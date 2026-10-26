@@ -1,4 +1,4 @@
-import Search2 from '../assets/Pic/search.webp';
+import Search2 from '../assets/pic/search.webp';
 
 
 const Search = ({searchTerm, setSearchTerm}) => {

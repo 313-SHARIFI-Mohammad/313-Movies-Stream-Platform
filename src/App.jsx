@@ -1,11 +1,11 @@
 import { useState, useEffect } from 'react'
-import Background from './assets/Pic/Background.png'
+import Background from './assets/pic/Background.png'
 import Search from './components/Search'
-import Hero from './assets/Pic/EpicMoviePosterTrilogy.png';
+import Hero from './assets/pic/EpicMoviePosterTrilogy.png';
 import Spinner from './components/Spinner';
 import MovieCard from './components/MovieCard'
 import { useDebounce } from 'react-use';
-import LOGO from './assets/Pic/LOGO.png'
+import LOGO from './assets/pic/LOGO.png'
 
 const API_BASE_URL = 'https://api.themoviedb.org/3';
 
